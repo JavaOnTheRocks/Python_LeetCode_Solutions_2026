@@ -16,10 +16,9 @@ class Solution(object):
             fast=self.nextnumber(self.nextnumber(fast))
             if slow==1 or fast==1:
                 return True
-                break
             if slow==fast:
                 return False
-                break
+                
 
           
         
