@@ -46,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
