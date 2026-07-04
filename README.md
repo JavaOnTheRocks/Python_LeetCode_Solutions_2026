@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -39,8 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
