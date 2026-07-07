@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0707-design-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
