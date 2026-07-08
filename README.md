@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,15 +61,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
+| [1472-design-browser-history](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
