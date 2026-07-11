@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1472-design-browser-history) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0707-design-linked-list) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
