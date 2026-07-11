@@ -2,7 +2,7 @@ class Solution(object):
     def mySqrt(self, x):
         low=0
         high=x
-        answar=x
+        answar=0
         while low <= high:
             mid=low + (high-low)//2
             if mid ** 2==x:
