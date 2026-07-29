@@ -13,9 +13,11 @@ class Solution(object):
         #Recursive Case
         leftheight=self.minDepth(root.left)
         rightheight=self.minDepth(root.right)
-        ans=min(leftheight,rightheight)+1
-        if ans>1:
-            return ans
+
+        if root.left == None:
+            return rightheight+1
+        if root.right == None:
+            return leftheight+1
         else:
-            return max(leftheight,rightheight)+1
+            return min(leftheight,rightheight)+1
         
