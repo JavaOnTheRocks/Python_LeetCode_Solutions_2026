@@ -24,7 +24,7 @@ class Solution(object):
                     break
                 curr=curr.left
         return root 
-
+# time complexity: O(h), Space coplexity: O(1)
 
         ## Recursive Appraoch
         # if root is None:
@@ -34,5 +34,5 @@ class Solution(object):
         # elif root.val > target:
         #     root.left=self.insertIntoBST(root.left,target)
         # return root
-
+#Time complexity: O(h) , space coplexity:O(h)
         
