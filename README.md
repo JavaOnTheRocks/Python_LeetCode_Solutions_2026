@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -192,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
