@@ -13,6 +13,8 @@ class Solution(object):
             right_prefix*=nums[i]
 
         return answer
+        #no Extra sace complexity then provided so o(n)
+        # time complexity = o(n)
 
            
         
