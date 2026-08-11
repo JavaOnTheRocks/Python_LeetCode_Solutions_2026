@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -254,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
