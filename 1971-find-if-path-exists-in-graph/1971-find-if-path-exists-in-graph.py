@@ -24,6 +24,7 @@ class Solution(object):
             return False#pura for loop hon ka baad bhi nhi mila then retun False
         return DFS(source,adjList,visited)
                     
+        # We can also solve this with BFS appraoch
 
         # adjMatrix=[]
         # for i in range(n):
