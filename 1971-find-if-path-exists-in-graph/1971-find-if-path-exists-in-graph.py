@@ -1,5 +1,7 @@
 class Solution(object):
     def validPath(self, n, edges, source, destination):
+        if source == destination:
+            return True
         adjList=[]
         for i in range(n):
             adjList.append([])
@@ -9,17 +11,18 @@ class Solution(object):
             adjList[x].append(y)
             adjList[y].append(x)
 
-        visited=[False]*n
-        def DFS(i,parent,adjList,visited):
-            if i==destination:
+        visited=[False]*n #isko seen set sa bhi ker sakta ha seen=set() seen.add(source)
+
+        def DFS(i,adjList,visited):
+            if i==destination: #ager destintion tuk pahunch gya mutlab path exist karta ha
                 return True
             visited[i]=True
             for neighbor in adjList[i]:
                 if not visited[neighbor]:
-                    if DFS(neighbor,i,adjList,visited):
+                    if DFS(neighbor,adjList,visited): #this will leads us to explore all neighbor 
                         return True
-            return False
-        return DFS(source,-1,adjList,visited)
+            return False#pura for loop hon ka baad bhi nhi mila then retun False
+        return DFS(source,adjList,visited)
                     
 
         # adjMatrix=[]
