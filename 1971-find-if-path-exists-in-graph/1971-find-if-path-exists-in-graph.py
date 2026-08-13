@@ -1,5 +1,16 @@
 class Solution(object):
+        
+    def DFS(self,i,destination,adjList,visited):
+        if i==destination: #ager destintion tuk pahunch gya mutlab path exist karta ha
+            return True
+        visited[i]=True
+        for neighbor in adjList[i]:
+            if not visited[neighbor]:
+                if self.DFS(neighbor,destination,adjList,visited): #this will leads us to explore all neighbor 
+                    return True
+        return False#pura for loop hon ka baad bhi nhi mila then retun False
     def validPath(self, n, edges, source, destination):
+        #Edge case same hi jagha pe ho to
         if source == destination:
             return True
         adjList=[]
@@ -13,16 +24,7 @@ class Solution(object):
 
         visited=[False]*n #isko seen set sa bhi ker sakta ha seen=set() seen.add(source)
 
-        def DFS(i,adjList,visited):
-            if i==destination: #ager destintion tuk pahunch gya mutlab path exist karta ha
-                return True
-            visited[i]=True
-            for neighbor in adjList[i]:
-                if not visited[neighbor]:
-                    if DFS(neighbor,adjList,visited): #this will leads us to explore all neighbor 
-                        return True
-            return False#pura for loop hon ka baad bhi nhi mila then retun False
-        return DFS(source,adjList,visited)
+        return self.DFS(source,destination,adjList,visited)
                     
         # We can also solve this with BFS appraoch
 
