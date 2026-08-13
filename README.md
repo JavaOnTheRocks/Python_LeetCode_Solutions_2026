@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0238-product-of-array-except-self) |
+| [0463-island-perimeter](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0463-island-perimeter) |
 | [0704-binary-search](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0463-island-perimeter](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0733-flood-fill) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0199-binary-tree-right-side-view) |
+| [0463-island-perimeter](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0733-flood-fill) |
@@ -270,5 +273,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
