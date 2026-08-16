@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1095-find-in-mountain-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -285,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
