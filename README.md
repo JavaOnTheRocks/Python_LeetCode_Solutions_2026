@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1472-design-browser-history](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1472-design-browser-history) |
+| [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 ## Design
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 ## Queue
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -296,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
@@ -304,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
