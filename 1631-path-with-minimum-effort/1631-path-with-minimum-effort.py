@@ -33,7 +33,7 @@ class Solution(object):
                 if new_effort < effort[nr][nc]:
                     effort[nr][nc]=new_effort
                     heapq.heappush(heap,(new_effort,nr,nc))
-        return 0
+        return -1
 
 
 
