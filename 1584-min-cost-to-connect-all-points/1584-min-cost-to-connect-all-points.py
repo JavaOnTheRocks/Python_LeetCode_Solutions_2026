@@ -8,7 +8,7 @@ class Solution(object):#we will solve without building the graph
         heap=[]
         heapq.heappush(heap,(0,0))
 
-        while len(inMST)<n:
+        while len(heap)>0:
             wt,u=heapq.heappop(heap)
 
             if u in inMST:
