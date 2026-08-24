@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1472-design-browser-history](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1472-design-browser-history) |
+| [1584-min-cost-to-connect-all-points](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 ## Design
 |  |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1584-min-cost-to-connect-all-points](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -336,4 +339,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0787-cheapest-flights-within-k-stops) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
