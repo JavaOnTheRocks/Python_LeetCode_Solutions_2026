@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0705-design-hashset](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
 ## Math
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -355,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1584-min-cost-to-connect-all-points) |
+## String
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
