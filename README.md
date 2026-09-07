@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0035-search-insert-position) |
@@ -363,11 +364,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
