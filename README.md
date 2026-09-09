@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -367,12 +369,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Memoization
 |  |
 | ------- |
