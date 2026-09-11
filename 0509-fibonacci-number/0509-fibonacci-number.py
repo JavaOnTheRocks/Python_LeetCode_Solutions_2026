@@ -1,17 +1,17 @@
 class Solution(object):
     #with tabulization
     def fib(self, n):
-        if n == 0 or n==1:
+        if n <= 1:
             return n
-
-        dp=[-1]*(n+1)
-
-        dp[0]=0
-        dp[1]=1
+        
+        prev2=0
+        prev1=1
 
         for i in range(2,n+1):
-            dp[i]=dp[i-1]+dp[i-2]
+            curr=prev1+prev2
+            prev2=prev1
+            prev1=curr
 
-        return dp[n]
+        return prev1
 
 #__import__("atexit").register(lambda:open("display_runtime.txt","w").write("0"))
