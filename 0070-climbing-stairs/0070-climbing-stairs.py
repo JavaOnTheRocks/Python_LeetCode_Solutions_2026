@@ -2,18 +2,16 @@ class Solution(object):
     def climbStairs(self, n):
         if n==1 or n==2:
             return n
-            
-        dp=[-1]*(n+1)
-        
-        #tabulization base case 
-        dp[1]=1
-        dp[2]=2
-        # counting the all dp array values 
+
+        prev1=1
+        prev2=2
+ 
         for i in range(3,n+1):
-            dp[i]=dp[i-1]+dp[i-2]
+            curr=prev1+prev2
+            prev1=prev2
+            prev2=curr
 
-        return dp[n]
+        return prev2
 
-        # dp=[-1]*(n+1)#1D DP 
-        # return self.solve(n,dp)
+        # return dp[n]
         
