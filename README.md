@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0367-valid-perfect-square) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0509-fibonacci-number) |
 ## Brute-Force Search
