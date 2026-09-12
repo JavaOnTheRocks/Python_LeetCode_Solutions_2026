@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0973-k-closest-points-to-origin) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Minimum Spanning Tree
 |  |
