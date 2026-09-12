@@ -1,5 +1,8 @@
 class Solution(object):
-    def solve(self,n,cost,dp):
+    def minCostClimbingStairs(self, cost):
+        n=len(cost)
+        dp=[-1]*(n+1)
+
         if n==0 or n==1:
             return 0
 
@@ -15,11 +18,6 @@ class Solution(object):
             dp[i]=min(one_step_cost,two_step_cost)
 
         return dp[n]
-
-    def minCostClimbingStairs(self, cost):
-        n=len(cost)
-        dp=[-1]*(n+1)
-        return self.solve(n,cost,dp)
 
 
 
