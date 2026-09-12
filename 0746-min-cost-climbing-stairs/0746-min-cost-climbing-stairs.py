@@ -3,14 +3,17 @@ class Solution(object):
         if n==0 or n==1:
             return 0
 
+        dp[0]=0
+        dp[1]=0
+
         if dp[n]!=-1:
             return dp[n]
 
-        one_step_cost=self.solve(n-1,cost,dp)+cost[n-1]
-        two_step_cost=self.solve(n-2,cost,dp)+cost[n-2]
-        
-        #Store Result inside dp
-        dp[n]=min(one_step_cost,two_step_cost)
+        for i in range(2,n+1):
+            one_step_cost=dp[i-1]+cost[i-1]
+            two_step_cost=dp[i-2]+cost[i-2]
+            dp[i]=min(one_step_cost,two_step_cost)
+
         return dp[n]
 
     def minCostClimbingStairs(self, cost):
