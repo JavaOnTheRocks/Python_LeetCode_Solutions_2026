@@ -6,18 +6,17 @@ class Solution(object):
         if n==0 or n==1:
             return 0
 
-        dp[0]=0
-        dp[1]=0
-
-        if dp[n]!=-1:
-            return dp[n]
+        prev2=0
+        prev1=0
 
         for i in range(2,n+1):
-            one_step_cost=dp[i-1]+cost[i-1]
-            two_step_cost=dp[i-2]+cost[i-2]
-            dp[i]=min(one_step_cost,two_step_cost)
+            one_step_curr = prev1 + cost[i-1]
+            two_step_curr = prev2 + cost[i-2]
+            curr=min(one_step_curr,two_step_curr)
+            prev2=prev1
+            prev1=curr
 
-        return dp[n]
+        return prev1
 
 
 
