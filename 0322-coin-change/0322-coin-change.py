@@ -7,7 +7,7 @@ class Solution(object):
         if amount < 0:
             return float("inf")
 
-        if dp[amount] != -1:#if amount already exist in memo
+        if dp[amount] != -1:#if amount already exist in dp array taht amount already calculated then why whould calculate again
             return dp[amount]
 
         minCount=float("inf")
