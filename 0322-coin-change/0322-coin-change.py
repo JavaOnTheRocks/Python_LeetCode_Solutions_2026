@@ -1,28 +1,15 @@
 class Solution(object):
-    def solveRec(self,coins,amount,dp):
-        #base case
-        if amount==0:
-            return 0
-
-        if amount < 0:
-            return float("inf")
-
-        if dp[amount] != -1:#if amount already exist in dp array taht amount already calculated then why whould calculate again
-            return dp[amount]
-
-        minCount=float("inf")
-        for coin in coins:
-            res=self.solveRec(coins,amount-coin,dp)
-
-            if res != float("inf"):   #we are just saving from chaking becouse min hi min rah jayega is case ma
-                minCount=min(minCount,res+1) 
-        dp[amount]=minCount
-        return minCount
     def coinChange(self, coins, amount):
-        dp=[-1]*(amount+1)
-        ans=self.solveRec(coins,amount,dp)
-        if ans == float("inf"):
+        dp=[float("inf")]*(amount+1)
+        dp[0]=0
+        for i in range(1,amount+1):
+            for coin in coins:
+                if i - coin >= 0:
+                    res=dp[i-coin]
+                    if res != float("inf"):
+                        dp[i]=min(res+1,dp[i])
+        if dp[amount]==float("inf"):
             return -1
-        return ans
+        return dp[amount]
 
         
