@@ -19,13 +19,15 @@ class Solution(object):
             return nums[0]
         dp=[0]*n
         #base case to bottoum 
-        dp[0]=nums[0]
+        prev1=nums[0]
+        prev2=0
         for i in range(1,n):
-            include=dp[i-2]+nums[i]
-            exclude=dp[i-1]+0
-            dp[i]=max(include,exclude)
-
-        return dp[n-1]      
+            include=prev2+nums[i]
+            exclude=prev1+0
+            curr=max(include,exclude)
+            prev2=prev1
+            prev1=curr
+        return prev1     
 
     def rob(self, nums):
         n=len(nums)
@@ -38,6 +40,4 @@ class Solution(object):
         list2=nums[1:]
         case2=self.tabulization(list2)
         return max(case1,case2)
-
-
         
