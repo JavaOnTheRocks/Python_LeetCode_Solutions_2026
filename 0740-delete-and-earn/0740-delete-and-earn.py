@@ -17,10 +17,12 @@ class Solution(object):
         if len(nums)==1:
             return nums[0]
         #transform into house robber array 
+
         max_val=max(nums)
         bucket=[0]*(max_val+1)
         for num in nums:
             bucket[num]+=num
+            
         dp=[0]*len(bucket)
         #Base case
         dp[0]=0
