@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
 | [0720-longest-word-in-dictionary](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0720-longest-word-in-dictionary) |
+| [0740-delete-and-earn](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0740-delete-and-earn) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
 | [0720-longest-word-in-dictionary](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Minimum Spanning Tree
