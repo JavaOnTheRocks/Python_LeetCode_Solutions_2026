@@ -1,16 +1,4 @@
 class Solution(object):
-    def Solve(self,nums,i,dp):
-        if i<0:
-            return 0
-        if i==0:
-            return 0
-        if dp[i]!=-1:
-            return dp[i]
-        include=self.Solve(nums,i-2,dp)+nums[i]
-        exclude=self.Solve(nums,i-1,dp)+0
-        dp[i]=max(include,exclude)
-        return dp[i]
-
     def deleteAndEarn(self, nums):
         if not nums:
             return 0
@@ -22,7 +10,7 @@ class Solution(object):
         bucket=[0]*(max_val+1)
         for num in nums:
             bucket[num]+=num
-            
+
         dp=[0]*len(bucket)
         #Base case
         dp[0]=0
