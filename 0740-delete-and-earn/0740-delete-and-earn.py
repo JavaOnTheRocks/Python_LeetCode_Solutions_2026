@@ -13,15 +13,17 @@ class Solution(object):
 
         dp=[0]*len(bucket)
         #Base case
-        dp[0]=0
-        dp[1]=max(bucket[0],bucket[1]) #
+        prev2=0
+        prev1=max(bucket[0],bucket[1]) #
 
         for i in range(2,max_val+1):
-            include=dp[i-2]+bucket[i]
-            exclude=dp[i-1]+0
-            dp[i]=max(include,exclude)
+            include=prev2+bucket[i]
+            exclude=prev1+0
+            curr=max(include,exclude)
+            prev2=prev1
+            prev1=curr
 
-        return dp[max_val]
+        return prev1
 
 
 
