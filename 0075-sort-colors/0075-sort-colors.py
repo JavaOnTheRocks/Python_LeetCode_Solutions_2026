@@ -9,5 +9,5 @@ class Solution(object):
             #swapping
             nums[i],nums[min_index]=nums[min_index],nums[i]
         return nums
- 
-        
+#Time complexity - O(n^2)  Required optimization
+#Space complexity- o(1) inplace modification
