@@ -1,16 +1,29 @@
 class Solution(object):
     def sortColors(self, nums):
         n=len(nums)
-        has_swapped=True
-        while has_swapped:
-            has_swapped=False
-            for i in range(n-1):
-                if nums[i]>nums[i+1]:
-                    nums[i],nums[i+1]=nums[i+1],nums[i]
-                    has_swapped=True
+        for i in range(n):
+            key=nums[i]
+            j=i-1
+            while nums[j]>key and j>=0:
+                nums[j+1]=nums[j]
+                j-=1
+            nums[j+1]=key
         return nums
+# insertion sort wrost case Time Complexity - O(n^2) and Best Case Time Complexity - O(n)
+# Space complexity - O(1)
+
+        # n=len(nums)
+        # has_swapped=True
+        # while has_swapped:
+        #     has_swapped=False
+        #     for i in range(n-1):
+        #         if nums[i]>nums[i+1]:
+        #             nums[i],nums[i+1]=nums[i+1],nums[i]
+        #             has_swapped=True
+        # return nums
 #Bubble Sort - Time Complexity - O(n^2) best case- O(N)
 #Space Complexity - O(1)
+
         # n=len(nums)
         # for i in range(0,n):
         #     min_index=i
