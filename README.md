@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0160-intersection-of-two-linked-lists) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0912-sort-an-array) |
