@@ -32,9 +32,8 @@ class Solution(object):
         sorted_nums.extend(right[j:])
         return sorted_nums
         
-        
-
 ## Merge Sort Time Complexity - O(nlogn) and Space complexity - O(n)
+
         # n=len(nums)
         # for i in range(n):
         #     key=nums[i]
