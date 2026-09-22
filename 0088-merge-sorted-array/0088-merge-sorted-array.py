@@ -18,6 +18,8 @@ class Solution(object):
             nums1[k]=nums2[j]
             k-=1
             j-=1
+## Space complexity - No extra Space - O(1)
+# TIme Complexity - O(M+n) becous in each itaeration we are internaly just coparing values and assigning values and decrementing pointers
 
 
 
