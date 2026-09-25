@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -471,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0912-sort-an-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
