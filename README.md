@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0142-linked-list-cycle-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0051-n-queens) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0695-max-area-of-island) |
