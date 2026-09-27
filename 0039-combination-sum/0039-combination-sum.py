@@ -28,7 +28,7 @@ class Solution(object):
     def combinationSum(self, candidates, target):
         n=len(candidates)
         ans=[]
-        seen=set()
+        seen=set()# Beciuse we only ahve to Track the all unique combination
         self.helper(candidates,0,target,[],ans,seen)
         return ans
 
