@@ -26,5 +26,7 @@ class Solution(object):
         self.getallPart(s,partition,ans)
         return ans
 
+## Time Complexity - O(n*2^n)
+
 
         
