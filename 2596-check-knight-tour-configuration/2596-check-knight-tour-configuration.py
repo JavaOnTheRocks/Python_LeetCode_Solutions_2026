@@ -23,3 +23,6 @@ class Solution(object):
     def checkValidGrid(self, grid):
         n=len(grid)
         return self.isValid(grid,0,0,n,0)
+
+## Time Complexity - O(8^(n^2))
+## Recursion Stack Space Complexity - O(n^2-1)
