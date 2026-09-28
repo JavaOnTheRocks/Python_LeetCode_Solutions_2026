@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2596-check-knight-tour-configuration](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/2596-check-knight-tour-configuration) |
 ## Design
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1971-find-if-path-exists-in-graph) |
+| [2596-check-knight-tour-configuration](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1971-find-if-path-exists-in-graph) |
+| [2596-check-knight-tour-configuration](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2596-check-knight-tour-configuration](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/2596-check-knight-tour-configuration) |
 ## Shortest Path
 |  |
 | ------- |
@@ -490,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0052-n-queens-ii) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
