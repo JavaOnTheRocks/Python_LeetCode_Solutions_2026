@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0145-binary-tree-postorder-traversal) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
@@ -505,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
