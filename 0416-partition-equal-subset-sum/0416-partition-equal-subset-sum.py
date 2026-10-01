@@ -28,7 +28,7 @@ class Solution(object):
                 exclude=prev[cap]
 
                 curr[cap]=include or exclude
-            prev=curr[:]
+            prev=curr[:] #Safely clone the list elements
         return prev[capacity]
 
 
