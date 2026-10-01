@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0704-binary-search) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0746-min-cost-climbing-stairs) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -498,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/2596-check-knight-tour-configuration) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
