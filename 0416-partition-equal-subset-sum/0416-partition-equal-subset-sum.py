@@ -5,7 +5,7 @@ class Solution(object):
         if total%2 != 0:
             return False
         capacity=total/2
-        #creation of Dp array
+        #creation of 1-D,Dp array
         curr=[False for _ in range(capacity+1)]
 
         ## Base Case:
@@ -31,16 +31,6 @@ class Solution(object):
         return curr[capacity]
 
 
-## By Simple Checking even or Odd:
-    #def calPartition(self,nums):
-        # n=len(nums)
-        # total=0
-        # for i in range(n):
-        #     total+=nums[i]
-        # if total%2==0:
-        #     return True
-        # else:
-        #     return False
     
 
 
