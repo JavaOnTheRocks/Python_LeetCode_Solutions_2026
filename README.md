@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0047-permutations-ii) |
@@ -511,4 +514,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
