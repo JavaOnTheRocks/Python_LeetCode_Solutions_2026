@@ -5,7 +5,7 @@ class Solution(object):
         #Base Case:
         for index in range(n+1):
             dp[index][0]=1
-        #Recursive Case
+        #Itratively sub cell ko bhrenga:
         for index in range(n-1,-1,-1):
             for amount in range(1,amount+1):
                 include=0
