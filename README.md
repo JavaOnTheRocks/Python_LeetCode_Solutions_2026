@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
+| [0377-combination-sum-iv](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0518-coin-change-ii) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
+| [0377-combination-sum-iv](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0518-coin-change-ii) |
