@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
