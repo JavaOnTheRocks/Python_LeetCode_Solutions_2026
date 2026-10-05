@@ -10,3 +10,5 @@ class Solution(object):
                 dp[i]=min(dp[i],1+dp[i-j*j])
                 j+=1
         return dp[n]
+## Space complexity - No recursive call stack but time complexity still O(n) dp array
+## Time Coplexity - (root(n)*n)
