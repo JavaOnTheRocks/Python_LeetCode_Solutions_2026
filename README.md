@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0973-k-closest-points-to-origin) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
@@ -456,12 +459,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0518-coin-change-ii) |
 ## Backtracking
