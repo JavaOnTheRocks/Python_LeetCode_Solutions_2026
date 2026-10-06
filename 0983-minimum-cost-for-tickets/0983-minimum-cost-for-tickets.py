@@ -28,6 +28,6 @@ class Solution(object):
         n=len(days)
         dp=[float("inf")]*(n+1)
         return self.Solve(days,costs,n,0,dp)
-## Time Complexity - Exponantial O(3^n) TLE
-## Soace Complexity - O(N) #Recursive Stack
-        
+
+## Time Complexity - O(N) becaius we are only computng singel time each and every problem 
+## Space Complexity - O(N)+O(N)#Recrisive stacka and the dp aray
