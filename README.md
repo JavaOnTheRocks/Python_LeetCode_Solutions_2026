@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0977-squares-of-a-sorted-array) |
+| [0983-minimum-cost-for-tickets](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1046-last-stone-weight) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0983-minimum-cost-for-tickets](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0983-minimum-cost-for-tickets) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
