@@ -1,40 +1,32 @@
 class Solution(object):
-    def Solve(self,matrix,i,j,dp):
-        #Base Case
-        if i>=len(matrix) or j>=len(matrix[0]):
-            return 0
-        
-        if dp[i][j] != "-1":
-            return dp[i][j]
-            
-        #Revursive Case
-        right=self.Solve(matrix,i,j+1,dp)
-        down=self.Solve(matrix,i+1,j,dp)
-        diognal=self.Solve(matrix,i+1,j+1,dp)
+    def SolveTab(self,matrix):
+        rows=len(matrix)
+        cols=len(matrix[0])
+        #make an dp array
+        dp = [[0 for _ in range(cols+1)] for _ in range(rows+1)] #ewual to wali values automaticaly 0 initallize ho jaygi now
 
-        if matrix[i][j]=="1":
-            dp[i][j]=1+min(right,down,diognal)
-            self.final=max(self.final,dp[i][j])
-            return dp[i][j]
+         
+        #Base will be automatically filled:
+        # convert Recursivley inot itratively with bottom up appraoach:
+        for i in range(rows-1,-1,-1):
+            for j in range(cols-1,-1,-1):
+                right=dp[i][j+1]
+                down=dp[i+1][j]
+                diognal=dp[i+1][j+1]
 
-        else: #add the Result into dp[i][j] then return
-            dp[i][j]=0
-            return 0
+                if matrix[i][j]=="1":
+                    dp[i][j]=1+min(right,down,diognal)
+                    self.final=max(self.final,dp[i][j])
+                    dp[i][j]
+
+                else:
+                    dp[i][j]=0
+
 
     def maximalSquare(self, matrix):
         if not matrix:
             return 0
-        #initallize 2d dp array:
-        rows=len(matrix)
-        cols=len(matrix[0])
-        dp = [["-1" for _ in range(cols)] for _ in range(rows)]
-
-        #initallize self as a global variable
-        self.final=0
-        for i in range(rows):
-            for j in range(cols):
-                if matrix[i][j] == "1":
-                    self.Solve(matrix,i,j,dp)
         
-        # self.Solve(matrix,0,0,dp)
+        self.final=0
+        self.SolveTab(matrix)
         return self.final*self.final
