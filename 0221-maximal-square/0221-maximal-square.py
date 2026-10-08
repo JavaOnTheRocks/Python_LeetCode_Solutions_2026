@@ -31,5 +31,10 @@ class Solution(object):
 
         #initallize self as a global variable
         self.final=0
-        self.Solve(matrix,0,0,dp)
+        for i in range(rows):
+            for j in range(cols):
+                if matrix[i][j] == "1":
+                    self.Solve(matrix,i,j,dp)
+        
+        # self.Solve(matrix,0,0,dp)
         return self.final*self.final
