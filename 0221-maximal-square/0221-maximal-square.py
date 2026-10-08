@@ -21,12 +21,34 @@ class Solution(object):
 
                 else:
                     dp[i][j]=0
+                    
+    def SolveSpaceOptimixed(self,matrix):
+        rows=len(matrix)
+        cols=len(matrix[0])
 
+        curr=[0 for _ in range(cols+1)]
+        next=[0 for _ in range(cols+1)]
+
+        for i in range(rows-1,-1,-1):
+            for j in range(cols-1,-1,-1):
+                right=curr[j+1]
+                down=next[j]
+                diognal=next[j+1]
+
+                if matrix[i][j]=="1":
+                    curr[j]=1+min(right,down,diognal)
+                    self.final=max(self.final,curr[j])
+                    curr[j]
+
+                else:
+                    curr[j]=0
+            #humna cur caluate ker i ab isa next ban to or next curr calcuate karo
+            next=list(curr)
 
     def maximalSquare(self, matrix):
         if not matrix:
             return 0
         
         self.final=0
-        self.SolveTab(matrix)
+        self.SolveSpaceOptimixed(matrix)
         return self.final*self.final
