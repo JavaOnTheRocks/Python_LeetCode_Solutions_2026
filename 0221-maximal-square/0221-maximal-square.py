@@ -52,3 +52,5 @@ class Solution(object):
         self.final=0
         self.SolveSpaceOptimixed(matrix)
         return self.final*self.final
+## Time Complexity -O(m*n)
+## Space Complexity -O(m)
