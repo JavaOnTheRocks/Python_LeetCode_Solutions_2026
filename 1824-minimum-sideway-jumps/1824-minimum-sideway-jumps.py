@@ -1,5 +1,3 @@
-import sys
-sys.setrecursionlimit(1000000)
 class Solution(object):
     def minSideJumps(self, obstacles):
         n=len(obstacles)-1
