@@ -4,23 +4,29 @@ class Solution(object):
     def minSideJumps(self, obstacles):
         n=len(obstacles)-1
         #initallize dp arraay-
-        dp=[[ -1 for _ in range(len(obstacles))] for _ in range(4)]
+        curr=[ float("inf") for _ in range(4)]
+        next=[float("inf") for _ in range(4)]
+
 
         #Base case
-        for lane in range(4):
-            dp[lane][n]=0
+        next[0]=0
+        next[1]=0
+        next[2]=0
+        next[3]=0
 
         #bottom up appraocah 
         for currposition in range(n-1,-1,-1):
             for currlane in range(1,4):
                 if obstacles[currposition+1] != currlane:
-                    dp[currlane][currposition]=dp[currlane][currposition+1]#Aaga wal copy ker lunga ager sidha move kiya ha to
+                    curr[currlane]=next[currlane]#Aaga wal copy ker lunga ager sidha move kiya ha to
                 else:
                     ans=float("inf")
                     for i in range(1,4):
                         if obstacles[currposition] != i and currlane != i:
-                            jump= 1 + dp[i][currposition+1]#bubber wal example ki ager wo abi tuk calculate hi nhi huva ha to 
+                            jump= 1 + next[i]#bubber wal example ki ager wo abi tuk calculate hi nhi huva ha to 
                             ans=min(ans,jump)
-                    dp[currlane][currposition]=ans
+                    curr[currlane]=ans
+            #after each iteration 
+            next=curr
         # return dp[2][0]
-        return min(dp[2][0],dp[1][0]+1,dp[3][0]+1)
+        return min(next[2],next[1]+1,next[3]+1)
