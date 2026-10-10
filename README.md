@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1472-design-browser-history) |
 | [1584-min-cost-to-connect-all-points](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
+| [1824-minimum-sideway-jumps](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1824-minimum-sideway-jumps) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2596-check-knight-tour-configuration](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/2596-check-knight-tour-configuration) |
 ## Design
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0983-minimum-cost-for-tickets](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0983-minimum-cost-for-tickets) |
+| [1824-minimum-sideway-jumps](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1824-minimum-sideway-jumps) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -535,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1824-minimum-sideway-jumps](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1824-minimum-sideway-jumps) |
 <!---LeetCode Topics End-->
