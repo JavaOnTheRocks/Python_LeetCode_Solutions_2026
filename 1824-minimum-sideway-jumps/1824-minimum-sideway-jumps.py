@@ -30,3 +30,6 @@ class Solution(object):
             next=curr
         # return dp[2][0]
         return min(next[2],next[1]+1,next[3]+1)
+
+#Time Complexity: O(4*n)
+#Space Complexity : O(1)
