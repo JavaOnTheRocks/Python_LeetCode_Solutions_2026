@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1402-reducing-dishes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1402-reducing-dishes) |
 | [1472-design-browser-history](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1472-design-browser-history) |
 | [1584-min-cost-to-connect-all-points](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0977-squares-of-a-sorted-array) |
+| [1402-reducing-dishes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1402-reducing-dishes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0983-minimum-cost-for-tickets](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0983-minimum-cost-for-tickets) |
+| [1402-reducing-dishes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1402-reducing-dishes) |
 | [1824-minimum-sideway-jumps](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1824-minimum-sideway-jumps) |
 ## Minimum Spanning Tree
 |  |
@@ -540,5 +543,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1402-reducing-dishes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1402-reducing-dishes) |
 | [1824-minimum-sideway-jumps](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1824-minimum-sideway-jumps) |
 <!---LeetCode Topics End-->
