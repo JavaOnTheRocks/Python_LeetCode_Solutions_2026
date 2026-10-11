@@ -16,4 +16,5 @@ class Solution(object):
             next=curr
         return next[0]
 
-        
+## Time Complexity - O(n^2)
+## Space Complexity -O(n)
