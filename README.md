@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0463-island-perimeter) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0215-kth-largest-element-in-an-array) |
+| [0354-russian-doll-envelopes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0354-russian-doll-envelopes) |
 | [0720-longest-word-in-dictionary](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0973-k-closest-points-to-origin) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0509-fibonacci-number) |
@@ -552,4 +556,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
