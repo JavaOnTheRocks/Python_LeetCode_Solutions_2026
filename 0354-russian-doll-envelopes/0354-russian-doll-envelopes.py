@@ -32,6 +32,10 @@ class Solution(object):
 
         return len(sub)
 
+#appraoch using the Dp wiht BIary Search
+# Time Complexity - O(nlogn)
+# Space Complexity - O(n)
+
                 
 
 
