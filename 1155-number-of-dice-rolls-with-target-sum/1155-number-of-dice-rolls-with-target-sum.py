@@ -19,5 +19,7 @@ class Solution(object):
             #her iteration ak baad curr prev ho jayega
             prev=list(curr)
         return prev[target]
+## Time Complexity - O(dice*target*faces)
+## Sapce Complexity - O(target)
 
         
