@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0746-min-cost-climbing-stairs) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0912-sort-an-array) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0983-minimum-cost-for-tickets) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1402-reducing-dishes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1402-reducing-dishes) |
