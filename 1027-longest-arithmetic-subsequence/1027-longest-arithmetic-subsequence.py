@@ -6,7 +6,7 @@ class Solution(object):
         if n<= 2:
             return n
 
-        dp=[{} for _ in range(n+1)]
+        dp=[{} for _ in range(n)]
 
         ans=0
         for i in range(1,n):
