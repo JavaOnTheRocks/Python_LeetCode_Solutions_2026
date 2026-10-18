@@ -17,8 +17,6 @@ class Solution(object):
                 else:
                     dp[i][diff]=2
                 ans=max(ans,dp[i][diff])
-                # #Backword lookup logic 
-                # ans=max(ans,2+self.Solve(i,nums[j]-nums[i],nums,dp))
         return ans
 
 #TIme Complexity = O(n^2)
