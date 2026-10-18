@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
 | [0720-longest-word-in-dictionary](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0740-delete-and-earn) |
+| [1027-longest-arithmetic-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1027-longest-arithmetic-subsequence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Math
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1027-longest-arithmetic-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-last-stone-weight](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1027-longest-arithmetic-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1027-longest-arithmetic-subsequence) |
 | [1095-find-in-mountain-array](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1631-path-with-minimum-effort) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0983-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1027-longest-arithmetic-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1402-reducing-dishes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1691-maximum-height-by-stacking-cuboids) |
