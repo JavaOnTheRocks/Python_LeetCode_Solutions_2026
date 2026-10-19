@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0973-k-closest-points-to-origin) |
+| [2235-add-two-integers](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/2235-add-two-integers) |
 ## Array
 |  |
 | ------- |
