@@ -16,7 +16,9 @@ class Solution(object):
         dp=[-1 for _ in range(n+1)]
         return self.Solve(n,dp)
 
-## Time Cmplexity - Exponential - O(2^n)
-## Sapce Complexity - O(n) Recuraion depth
+## Memoization appraoch:
+
+## Time Cmplexity - Exponential - O(n^2)
+## Sapce Complexity - O(n) + O(n)
         
         
