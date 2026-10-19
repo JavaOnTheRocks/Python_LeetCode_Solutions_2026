@@ -1,24 +1,21 @@
 class Solution(object):
-    def Solve(self,n,dp):
-        #Base Case
-        if n<=1:
-            return 1
-        
-        if dp[n] != -1:
-            return dp[n]
-        ans=0
-        for i in range(1,n+1):
-            ans+=self.Solve(i-1,dp)*self.Solve(n-i,dp)
-        dp[n]=ans
-        return dp[n]
-
+    #Tabulization(Bottom - up) Appraoch:
     def numTrees(self, n):
-        dp=[-1 for _ in range(n+1)]
-        return self.Solve(n,dp)
+        dp=[0 for _ in range(n+1)]
+
+        #Convert Base Case
+        dp[0]=dp[1]=1
+
+        # Build the table bottom-up from 2 up to n
+        for i in range(2,n+1):#Insted of calling Solve(n)
+            for j in range(1,i+1):#picing the root node 
+                dp[i]+=dp[j-1]*dp[i-j]
+    
+        return dp[n]
 
 ## Memoization appraoch:
 
 ## Time Cmplexity - Exponential - O(n^2)
-## Sapce Complexity - O(n) + O(n)
+## Sapce Complexity - O(n) 
         
         
