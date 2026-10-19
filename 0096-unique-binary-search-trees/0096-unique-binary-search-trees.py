@@ -6,6 +6,9 @@ class Solution(object):
         lower = math.factorial(n+1) * math.factorial(n)
         return upper//lower
 
+# time complexity - O(n)
+# Space Complexity - O(1)
+
 
         
         
