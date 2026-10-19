@@ -13,9 +13,10 @@ class Solution(object):
     
         return dp[n]
 
-## Memoization appraoch:
+## Tabulization appraoch:
 
 ## Time Cmplexity - Exponential - O(n^2)
 ## Sapce Complexity - O(n) 
+# No Recusive dpeth Exced erro remove the Recusion from the game (avoid Stack Frame Allocation)
         
         
