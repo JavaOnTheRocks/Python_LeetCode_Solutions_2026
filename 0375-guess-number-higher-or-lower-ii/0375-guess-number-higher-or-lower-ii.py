@@ -22,6 +22,7 @@ class Solution(object):
 
     def SolveTab(self,start,end):
         n=end
+        #make teh range (n+2) do handel teh Boundry Condition
         dp=[[0 for _ in range(n+2)]for _ in range(n+2)]
 
         #Iterative Approach:
@@ -34,7 +35,7 @@ class Solution(object):
                     for num in range(start,end+1):
                         ans=min(ans,num+max(dp[start][num-1],dp[num+1][end]))
                     dp[start][end]=ans
-                    
+
         return dp[start][end]
 
 
@@ -42,8 +43,8 @@ class Solution(object):
         #2D Dp 
         return self.SolveTab(1,n)
     
-## Time Complexity - Exponential O(n^2)
-## Space Complexity - O(n^2) .. Recursive Stack
+## Time Complexity - Exponential O(n^3)
+## Space Complexity - O(n^2)  .. (No Recursive Depth error occur)
 
 
         
