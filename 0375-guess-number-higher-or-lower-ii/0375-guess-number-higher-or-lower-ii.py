@@ -20,10 +20,27 @@ class Solution(object):
         dp[start][end]=ans
         return dp[start][end]
 
+    def SolveTab(self,start,end):
+        n=end
+        dp=[[0 for _ in range(n+2)]for _ in range(n+2)]
+
+        #Iterative Approach:
+        for start in range(n,-1,-1):
+            for end in range(1,n+1):
+                if start>= end :
+                    continue
+                else:
+                    ans=float("inf")
+                    for num in range(start,end+1):
+                        ans=min(ans,num+max(dp[start][num-1],dp[num+1][end]))
+                    dp[start][end]=ans
+                    
+        return dp[start][end]
+
+
     def getMoneyAmount(self, n):
         #2D Dp 
-        dp=[[-1 for _ in range(n+1)]for _ in range(n+1)]
-        return self.SolveMem(1,n,dp)
+        return self.SolveTab(1,n)
     
 ## Time Complexity - Exponential O(n^2)
 ## Space Complexity - O(n^2) .. Recursive Stack
