@@ -6,7 +6,7 @@ class Solution(object):
         end=n-1
         
         #Keep Strinking
-        # we are doin +1 becaouse we ahve to make index -1  
+        # we are doin +1 becaouse we ahve to make index -1  because k len ka na ki indexes diff
         while end-start+1>k:
             dist_start = abs(arr[start] - x)
             dist_end = abs(arr[end] - x)
@@ -16,7 +16,7 @@ class Solution(object):
             else:
                 start+=1
 
-        return arr[start:end+1]
+        return arr[start:end+1]#Slicing m last wal element include nhi hota
 
 ## Time Complexity - O(n)
 ## Space Complexty _ O(1)
