@@ -12,7 +12,8 @@ class Solution(object):
                 profit+=prices[i]-prices[i-1]
         return profit
 
-
+## Time Compleity - O(n)
+## Space Complexity - O(1)
 
 
 
