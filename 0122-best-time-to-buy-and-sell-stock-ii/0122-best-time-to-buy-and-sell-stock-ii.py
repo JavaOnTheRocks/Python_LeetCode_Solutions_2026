@@ -35,8 +35,8 @@ class Solution(object):
 
         return self.Solve(prices,0,1,dp)#pahala Buy karna tabhi to baad ma sell ker paunga
 
-## Time Complexity - O(2^n) Exponential  TLE
-## Space Complexity - O(n) Recusion stack depth
+## Time Complexity - O(N) Exponential  TLE
+## Space Complexity - O(N) dp Space  + O(N) Recusion stack depth
 
         
 
