@@ -11,6 +11,9 @@ class Solution(object):
         
         return profit
 
+## Time Complexity - O(N)
+## Space Complexity - O(1)
+
     
         
         
