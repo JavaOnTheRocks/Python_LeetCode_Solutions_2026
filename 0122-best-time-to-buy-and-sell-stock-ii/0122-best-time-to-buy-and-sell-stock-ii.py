@@ -1,19 +1,48 @@
 class Solution(object):
-    def maxProfit(self, prices):
-        if not prices:
+    def Solve(self,prices,index,Buy,dp):
+        if index == len(prices):
             return 0
         
-        #Greedy approach(if prev day price is less then current price then ad the current profit to last profit)
-        n=len(prices)
+        if dp[Buy][index] != -1:
+            return dp[Buy][index]
+
         profit=0
+        #Recursive Approach:(include or Exclude)
+        n=len(prices)
+        if Buy==1:
+            ## Buy
+            buykaro=-prices[index]+self.Solve(prices,index+1,0,dp)
+            ## Skip
+            skip=0+self.Solve(prices,index+1,1,dp)#abhi buy nhi kiya aaga jaka buy kareanga
+            profit+=max(buykaro,skip)
 
-        for i in range(1,n):
-            if prices[i]>prices[i-1]:
-                profit+=prices[i]-prices[i-1]
-        return profit
+        else:
+            ## Sell
+            sellkaro=prices[index]+self.Solve(prices,index+1,1,dp)
+            ## Skip
+            skip=0+self.Solve(prices,index+1,0,dp)#abhi sell nhi kiya aaga jaka sell karenga
+            profit+=max(sellkaro,skip)
+        
+        dp[Buy][index]=profit
+        return dp[Buy][index]
 
-## Time Compleity - O(n)
-## Space Complexity - O(1)
+    def maxProfit(self, prices):
+        n=len(prices)
+        if not prices:
+            return 0
+
+        dp=[[-1 for _ in range(n+1)]for _ in range(2)]#Two variable changing Buy status and the dp 
+
+        return self.Solve(prices,0,1,dp)#pahala Buy karna tabhi to baad ma sell ker paunga
+
+## Time Complexity - O(2^n) Exponential  TLE
+## Space Complexity - O(n) Recusion stack depth
+
+        
+
+        
+        
+
 
 
 
