@@ -1,31 +1,4 @@
 class Solution(object):
-    def Solve(self,prices,index,Buy,dp):
-        if index == len(prices):
-            return 0
-        
-        if dp[Buy][index] != -1:
-            return dp[Buy][index]
-
-        profit=0
-        #Recursive Approach:(include or Exclude)
-        n=len(prices)
-        if Buy==1:
-            ## Buy
-            buykaro=-prices[index]+self.Solve(prices,index+1,0,dp)
-            ## Skip
-            skip=0+self.Solve(prices,index+1,1,dp)#abhi buy nhi kiya aaga jaka buy kareanga
-            profit+=max(buykaro,skip)
-
-        else:
-            ## Sell
-            sellkaro=prices[index]+self.Solve(prices,index+1,1,dp)
-            ## Skip
-            skip=0+self.Solve(prices,index+1,0,dp)#abhi sell nhi kiya aaga jaka sell karenga
-            profit+=max(sellkaro,skip)
-        
-        dp[Buy][index]=profit
-        return dp[Buy][index]
-
     def SolveTab(self,prices,index,Buy):
         n=len(prices)
         dp=[[0 for _ in range(n+1)]for _ in range(2)] # initallized wiht 0 ont havet o handle Base Case
