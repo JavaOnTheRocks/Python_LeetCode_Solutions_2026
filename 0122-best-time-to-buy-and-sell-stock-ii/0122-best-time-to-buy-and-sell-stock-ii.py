@@ -1,5 +1,5 @@
 class Solution(object):
-    def SolveTab(self,prices,index,Buy):
+    def SolveTabSO(self,prices,index,Buy):
         n=len(prices)
         curr=[0,0]
         next=[0,0]
@@ -31,7 +31,7 @@ class Solution(object):
         if not prices:
             return 0 
 
-        return self.SolveTab(prices,n-1,1)#pahala Buy karna tabhi to baad ma sell ker paunga
+        return self.SolveTabSO(prices,n-1,1)#pahala Buy karna tabhi to baad ma sell ker paunga
 
-## Time Complexity - O(N) Exponential  TLE
-## Space Complexity - O(N) dp Space 
+## Time Complexity - O(N)
+## Space Complexity - O(1)
