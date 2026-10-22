@@ -38,6 +38,6 @@ class Solution(object):
         return self.SolveTab(prices)
 
 ## Time Complexity - O(n)
-## Sapce Complexity - O(n)
+## Sapce Complexity - O(1)
 
     
