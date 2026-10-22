@@ -38,6 +38,6 @@ class Solution(object):
         
         return self.Solve(prices,0,1,k,dp)
 
-## Time Complexity - O(2^n)
-## Space Complexity - O(n)
+## Time Complexity - O(n*k)
+## Space Complexity - O(n)+O(n*K)
         
