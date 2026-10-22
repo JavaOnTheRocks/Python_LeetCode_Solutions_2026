@@ -1,41 +1,41 @@
 class Solution(object):
-    def Solve(self,prices,index,Buy,limit,dp):
-        if index == len(prices):
-            return 0
-
-        if limit == 0:
-            return 0
-        
-        if dp[index][Buy][limit] != -1:
-            return dp[index][Buy][limit]
-
-        profit=0
-        #Recursive Approach:(include or Exclude)
+    def SolveTab(self,prices):
         n=len(prices)
-        if Buy==1:
-            ## Buy
-            buykaro=-prices[index]+self.Solve(prices,index+1,0,limit,dp)
-            ## Skip
-            skip=0+self.Solve(prices,index+1,1,limit,dp)#abhi buy nhi kiya aaga jaka buy kareanga
-            profit+=max(buykaro,skip)
+        dp=[[[0 for _ in range(3)]for _ in range(2)]for _ in range(n+1)]
+        #Handle Base Case
+        #Iteraticve approach
+        for index in range(n-1,-1,-1):
+            for Buy in range(2):
+                # Start from 1 because limit = 0 means 0 profit remaining anyway
+                for limit in range(1,3):
+                    profit=0
+                    #Recursive Approach:(include or Exclude)
+                    if Buy==1:
+                        ## Buy
+                        buykaro=-prices[index]+dp[index+1][0][limit]
+                        ## Skip
+                        skip=0+dp[index+1][1][limit]#abhi buy nhi kiya aaga jaka buy kareanga
+                        profit+=max(buykaro,skip)
 
-        else:
-            ## Sell
-            sellkaro=prices[index]+self.Solve(prices,index+1,1,limit-1,dp)
-            ## Skip
-            skip=0+self.Solve(prices,index+1,0,limit,dp)#abhi sell nhi kiya aaga jaka sell karenga
-            profit+=max(sellkaro,skip)
-        
-        dp[index][Buy][limit]=profit
-        return dp[index][Buy][limit]
+                    else:
+                        ## Sell
+                        sellkaro=prices[index]+dp[index+1][1][limit-1]
+                        ## Skip
+                        skip=0+dp[index+1][0][limit]#abhi sell nhi kiya aaga jaka sell karenga
+                        profit+=max(sellkaro,skip)
+                    
+                    dp[index][Buy][limit]=profit
+
+        return dp[0][1][2]
+
 
     def maxProfit(self, prices):
-        n=len(prices)
         if not prices:
             return 0
         
-        dp=[[[-1 for _ in range(3)]for _ in range(2)]for _ in range(n+1)]
-        
-        return self.Solve(prices,0,1,2,dp)
+        return self.SolveTab(prices)
+
+## Time Complexity - O(n)
+## Sapce Complexity - O(n)
 
     
