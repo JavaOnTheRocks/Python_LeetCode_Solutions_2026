@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0706-design-hashmap) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0740-delete-and-earn) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1402-reducing-dishes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1402-reducing-dishes) |
 | [1824-minimum-sideway-jumps](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1824-minimum-sideway-jumps) |
 ## Longest Increasing Subsequence
