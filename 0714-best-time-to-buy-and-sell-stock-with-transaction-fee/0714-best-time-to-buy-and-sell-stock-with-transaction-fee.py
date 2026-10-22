@@ -36,4 +36,4 @@ class Solution(object):
         return self.SolveTab(prices,0,1,fee)
 
 ## Time Complexity : O(n)
-## Space Complexity : O(n)
+## Space Complexity : O(1)
