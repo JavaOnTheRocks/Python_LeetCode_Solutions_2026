@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1027-longest-arithmetic-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1402-reducing-dishes](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1402-reducing-dishes) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0720-longest-word-in-dictionary](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0720-longest-word-in-dictionary) |
+| [1143-longest-common-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -607,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0658-find-k-closest-elements) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
