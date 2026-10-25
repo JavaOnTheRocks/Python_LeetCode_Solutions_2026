@@ -26,5 +26,5 @@ class Solution(object):
         #Kisi bhi char ko inclde or Exclude ker sakta ha so that apply Recursion:
         return self.Solve(text1,text2,0,0,dp)
 
-# TC - O(2^(m+n))
-# SC - O(m+n) Recursive Staack
+# TC - O((m+n)) Every cell will be computed only sngle time 
+# SC - O(m+n) Recursive Stack + O(m*n) sapce Complexity 
