@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0746-min-cost-climbing-stairs) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0516-longest-palindromic-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0583-delete-operation-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0720-longest-word-in-dictionary) |
 | [1143-longest-common-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1143-longest-common-subsequence) |
 ## Trie
@@ -616,5 +618,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/JavaOnTheRocks/Python_LeetCode_Solutions_2026/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
