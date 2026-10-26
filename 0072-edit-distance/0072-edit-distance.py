@@ -65,4 +65,5 @@ class Solution(object):
     def minDistance(self, word1, word2):
         return self.SolveSC(word1,word2)
 
-        
+## Time Complexity : O(M*n)
+## Space Complexity - O(N)
